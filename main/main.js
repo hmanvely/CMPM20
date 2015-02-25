@@ -1,6 +1,8 @@
 // Use 2D context with Brine.js
 use2D = true;
 
+alert("true")
+
 // Create global textured sprites
 /* Sprites here are global uniform objects that are
  * not created by rooms but are instead re-referenced
